@@ -1,0 +1,224 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WC photo 2 wall-paper\n"
+"POT-Creation-Date: 2020-03-10 21:18+0100\n"
+"PO-Revision-Date: 2020-03-13 15:54+0100\n"
+"Last-Translator: Carl Conrad <carl@koffeeware.com>\n"
+"Language-Team: Carl Conrad <carl@koffeeware.com>\n"
+"Language: de_DE@formal\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 2.3\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: kw-photo-2-wall-paper.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#: admin/product-settings.php:17
+msgid "Is wall paper"
+msgstr "Ist Wandpapier"
+
+#: admin/product-settings.php:19
+msgid "Yes"
+msgstr "Ja"
+
+#: admin/product-settings.php:20
+msgid "No"
+msgstr "Nein"
+
+#: admin/product-settings.php:22
+msgid ""
+"For wall-paper products, price needs to be defined for one square meter."
+msgstr ""
+"Für Wandpapierprodukte muss der Preis für einen Quadratmeter festgelegt "
+"werden."
+
+#: admin/settings.php:16
+msgid "Wall Paper"
+msgstr "Wandpapier"
+
+#: admin/settings.php:34
+msgid "Wall Paper Settings"
+msgstr "Einstellungen für Wandpapier"
+
+#: admin/settings.php:36
+msgid "The following options are used to configure Wall Paper."
+msgstr ""
+"Die folgenden Optionen werden zum Konfigurieren von Wandpapier verwendet."
+
+#: admin/settings.php:39 admin/settings.php:40
+msgid "metric"
+msgstr "Metrisch"
+
+#: admin/settings.php:39
+msgid "imperial"
+msgstr "Imperial"
+
+#: admin/settings.php:41
+msgid "Square meter"
+msgstr "Quadratmeter"
+
+#: admin/settings.php:41
+msgid "Square inch"
+msgstr "Quadratzoll"
+
+#: admin/settings.php:42
+msgid "Square meters"
+msgstr "Quadratmeter"
+
+#: admin/settings.php:42
+msgid "Square inches"
+msgstr "Quadratzoll"
+
+#: admin/settings.php:43
+msgid "Meter"
+msgstr "Meter"
+
+#: admin/settings.php:43
+msgid "Inch"
+msgstr "Zoll"
+
+#: admin/settings.php:44 public/woocommerce-product-page.php:78
+#: public/woocommerce-product-page.php:81
+msgid "Meters"
+msgstr "Meter"
+
+#: admin/settings.php:44
+msgid "Inches"
+msgstr "Zoll"
+
+#: admin/settings.php:46
+msgid "Units"
+msgstr "Einheiten"
+
+#: admin/settings.php:49
+msgid "These units are used for the surface price."
+msgstr "Diese Einheiten werden für den Flächenpreis verwendet."
+
+#: admin/settings.php:54
+msgid "Wall paper print resolution"
+msgstr "Druckauflösung für Wandpapier"
+
+#: admin/settings.php:58
+msgid "Wall paper print resolution. Consider 150 DPI as a maximum."
+msgstr "Druckauflösung für Wandpapier. Betrachten Sie 150 DPI als Maximum."
+
+#: public/woocommerce-cart.php:19
+msgid "Size"
+msgstr "Größe"
+
+#: public/woocommerce-checkout.php:18
+msgid "Height (m)"
+msgstr "Höhe (m)"
+
+#: public/woocommerce-checkout.php:21
+msgid "Width (m)"
+msgstr "Breite (m)"
+
+#: public/woocommerce-checkout.php:30
+msgid "Download"
+msgstr "Herunterladen"
+
+#: public/woocommerce-product-page.php:41
+msgid ""
+"Wall Paper area is \" + area + \" square meters / (\" + total_price + \" "
+msgstr ""
+"Wandpapierfläche ist \" + area + \" Quadratmeter / (\" + total_price + \" "
+
+#: public/woocommerce-product-page.php:42
+msgid ""
+"To match the defined area, the photo should be \" + height * "
+"resolution_per_meter + \" by \" + width * resolution_per_meter + \" pixels."
+msgstr ""
+"Um dem definierten Bereich zu entsprechen, sollte das Foto \" + height * "
+"resolution_per_meter + \" durch \" + width * resolution_per_meter + \" Pixel "
+"sein."
+
+#: public/woocommerce-product-page.php:45
+#: public/woocommerce-product-page.php:83
+msgid "Please enter height and width of the Wall Paper."
+msgstr "Bitte geben Sie Höhe und Breite des Wandpapiers ein."
+
+#: public/woocommerce-product-page.php:46
+#: public/woocommerce-product-page.php:91
+msgid ""
+"Please enter height and width of the Wall Paper to know the required picture "
+"size in pixels."
+msgstr ""
+"Geben Sie Höhe und Breite des Wandpapiers ein, um die erforderliche "
+"Bildgröße in Pixel zu kennen."
+
+#: public/woocommerce-product-page.php:75
+msgid "Customize the wall paper"
+msgstr "Anpassen des Wandpapiers"
+
+#: public/woocommerce-product-page.php:76
+msgid "Define wall paper size"
+msgstr "Definieren des Wandpapierformats"
+
+#: public/woocommerce-product-page.php:78
+msgid "Height: "
+msgstr "Hohe: "
+
+#: public/woocommerce-product-page.php:81
+msgid "Width: "
+msgstr "Breite: "
+
+#: public/woocommerce-product-page.php:84
+msgid "Select photo"
+msgstr "Foto auswählen"
+
+#: public/woocommerce-product-page.php:116
+msgid "Please enter a height value."
+msgstr "Geben Sie einen Höhenwert ein."
+
+#: public/woocommerce-product-page.php:120
+msgid "Please enter a width value."
+msgstr "Geben Sie einen Breitenwert ein."
+
+#. Plugin Name of the plugin/theme
+msgid "Photo 2 wall-paper"
+msgstr "Foto zur Wandpapier"
+
+#. Plugin URI of the plugin/theme
+msgid "https://carlconrad.net/wordpress/plugins/"
+msgstr "https://carlconrad.net/wordpress/plugins/"
+
+#. Description of the plugin/theme
+msgid "A simple WooCommerce plug-in to create and sell wall-papers from photos"
+msgstr ""
+"Ein einfaches WooCommerce-Plug-in zum Erstellen und Verkaufen von "
+"Wandpapieren aus Fotos"
+
+#. Author of the plugin/theme
+msgid "Carl Conrad"
+msgstr "Carl Conrad"
+
+#. Author URI of the plugin/theme
+msgid "https://carlconrad.net"
+msgstr "https://carlconrad.net"
+
+#~ msgid "centimeters"
+#~ msgstr "Zentimeter"
+
+#~ msgid "meters"
+#~ msgstr "Meter"
+
+#~ msgid "inches"
+#~ msgstr "Zoll"
+
+#~ msgid "Upload"
+#~ msgstr "Hochladen"
+
+#~ msgid "Save"
+#~ msgstr "Speichern"
+
+#~ msgid "Square centimeters"
+#~ msgstr "Quadratzentimeter"
